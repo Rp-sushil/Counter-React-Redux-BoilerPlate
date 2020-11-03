@@ -11,7 +11,7 @@
  - [ ] '+' will increase counter by 1
  - [ ] '-' will decrease counter by 1
  - [ ] '+' and '-' button should be visible.
- - [ ] display current counter value inside a tag with attribute data-testId='counter'
+ - [ ] display current counter value inside a tag which have attribute data-testId='counter'
  
 
  
