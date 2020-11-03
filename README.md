@@ -6,7 +6,7 @@
  
  ## Acceptance Criteria
  - [ ] create a simple counter using Redux
- - [ ] Overall state should be an object with key as counter and value will be only integers (+ve / -ve)
+ - [ ] Overall state should be an object with key as counter and value will be only integers (+ve / -ve / 0)
  - [ ] counter will be updated by click two buttons '+' / '-'
  - [ ] '+' will increase counter by 1
  - [ ] '-' will decrease counter by 1
