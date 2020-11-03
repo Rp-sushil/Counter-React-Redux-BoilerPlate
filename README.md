@@ -11,7 +11,6 @@
  - [ ] '+' will increase counter by 1
  - [ ] '-' will decrease counter by 1
  - [ ] '+' and '-' button should be visible.
- - [ ] display current counter value.
- 
+ - [ ] display current counter value insdie span tag in App.js. Don't change data-testId
 
  
